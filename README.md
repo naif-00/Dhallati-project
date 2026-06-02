@@ -106,7 +106,7 @@ The application is monitored by a Wazuh agent configured to parse Django authent
 ![Report](screenshots/Report-Item.png)
 
 ### Inbox / Messaging
-![Inbox](screenshots/inbox.png)
+![Inbox](screenshots/Inbox.png)
 
 ### Wazuh SIEM — Authentication Monitoring
 ![Wazuh Dashboard](screenshots/wazuh-dashboard.png)
