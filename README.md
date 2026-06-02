@@ -94,28 +94,28 @@ The application is monitored by a Wazuh agent configured to parse Django authent
 ## 📸 Screenshots
 
 ### Home Page
-![Home](Screenshots/interface.png)
+![Home](screenshots/interface.png)
 
 ### Browse Lost & Found Items
-![Browse](Screenshots/browse-Items.png)
+![Browse](screenshots/browse-Items.png)
 
 ### AI Image Search
-![AI Search](Screenshots/AI-Image-Search.png)
+![AI Search](screenshots/AI-Image-Search.png)
 
 ### Report Item (Multi-step with Map)
-![Report](Screenshots/Report-Item.png)
+![Report](screenshots/Report-Item.png)
 
 ### Inbox / Messaging
-![Inbox](Screenshots/inbox.png)
+![Inbox](screenshots/inbox.png)
 
 ### Wazuh SIEM — Authentication Monitoring
-![Wazuh Dashboard](Screenshots/wazuh-dashboard.png)
+![Wazuh Dashboard](screenshots/wazuh-dashboard.png)
 
 ### Auth Failed Alert 
-![Auth Failed Alert](Screenshots/wazuh-auth-failed.png)
+![Auth Failed Alert](screenshots/wazuh-auth-failed.png)
 
 ### Auth Success Alert
-![Auth Success Alert](Screenshots/wazuh-auth-success.png)
+![Auth Success Alert](screenshots/wazuh-auth-success.png)
 
 ---
 
